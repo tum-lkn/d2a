@@ -7,6 +7,8 @@ notebooks/experiments-evaluation-collision.ipynb
 notebooks/.ipynb_checkpoints
 tx_assignment/
 vnf2tx/
+eval_net_checkpoints
+ccode/test_sched
 *.pdf
 *.csv
 *.pdf
